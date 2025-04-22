@@ -1,1 +1,1 @@
-Plant Disease Dataset: https://drive.google.com/https://www.kaggle.com/datasets/emmarex/plantdisease
+Plant Disease Dataset: https://www.kaggle.com/datasets/emmarex/plantdisease
